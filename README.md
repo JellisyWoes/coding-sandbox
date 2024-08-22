@@ -2,6 +2,8 @@
 
 Welcome to **Coding Sandbox**, a personal repository containing an assortment of scripts and code experiments. This repository is a collection of utility scripts, code snippets, and small projects, each organized for easy navigation and reuse.
 
+These are scripts that i created to help my lazy ass
+
 ## 📜 Purpose
 
 The goal of this repository is to:
