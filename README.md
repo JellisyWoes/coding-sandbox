@@ -15,18 +15,13 @@ Each script is stored in its own folder. The folder name is a short, descriptive
 
 ```
 /coding-sandbox
-    /price-checker
-    /file-cleaner
-    /data-fetcher
-    /server-status
-    ...
+    /EXAMPLE-hello-server
+    /Template
 ```
 
 ### Example Folders:
-- **price-checker**: Script to compare and track product prices across different e-commerce platforms.
-- **file-cleaner**: Automates deletion of unnecessary or temporary files.
-- **data-fetcher**: Fetches data from APIs and processes it for specific use cases.
-- **server-status**: Monitors and reports the health of a server or website.
+- **EXAMPLE-hello-server**: A simple example server setup script.
+- **Template**: This folder contains template files that will be used when creating new script folders. Use these files as a starting point for organizing and structuring new scripts.
 
 ## 🚀 Getting Started
 
@@ -39,14 +34,14 @@ To get started with this repository:
 
 2. **Navigate** to the folder containing the script you want to use:
    ```bash
-   cd coding-sandbox/price-checker
+   cd coding-sandbox/EXAMPLE-hello-server
    ```
 
 3. **Run the script** by following the instructions provided in each script’s README (if available). If not, inspect the code to understand how to use it.
 
 ## 🛠️ Script Usage
 
-Each script comes with its own specific instructions or can be easily understood by reviewing the code. Basic examples of script usage can be found in the individual folders. Feel free to tweak them for your needs!
+Each script comes with its own specific instructions or can be easily understood by reviewing the code. The **Template** folder contains boilerplate files that you can use to create new script folders. Basic examples of script usage can be found in the individual folders. Feel free to tweak them for your needs!
 
 ## 🌟 Contributions
 
